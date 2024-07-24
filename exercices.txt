@@ -1,5 +1,5 @@
 1 - Dans le model User, ecrire la méthode getCars() ( le schéma de la bdd se trouve dans le dossier init/)
-2 - Dans la méthode index du controller Home, récupérer le nom des voitures de l'utilisateur 1
+2 - Dans la méthode index du controller Home, récupérer le nom des voitures et celui de l'utilisateur 1
 3 - afficher le nom de l'utilisateur dans la page à la place de "???"
 4 - afficher la liste des voitures associées à l'utilisateur dans un popup qui se situera au centre de la page
 5 - récupérer la position du mot "cursus" situé à l'intérieur des variables str1 et str2 dans le fichier src/views/assets/js/script.js
